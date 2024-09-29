@@ -16,3 +16,5 @@ ie/re_cnn_att/data/*.txt
 ie/re_cnn_att/data/*.pkl
 ie/re_cnn_att/data/*.json
 ie/re_cnn_att/thirdpart/*
+.idea/
+.gitignore
